@@ -24,7 +24,7 @@ Categories Page for PicoCMS. Provide Categories Page and Meta Category.
 	*/
 	</pre>
 5. Add the following code to your theme:
-````html	
+	````html	
 	<pre>
 	{% if meta.purpose == "pico_categories_page" %}
 		<ul style="list-style-type: none;">
@@ -41,7 +41,7 @@ Categories Page for PicoCMS. Provide Categories Page and Meta Category.
 		</ul>
 	{% endif %}
 	</pre>
-````
+	````
 6. That's it. Open browser and go to Categories page (Ex: http://mywebsite.com/categories).
 7. Category can now be accessed with `{{ meta.category }}`.
 
