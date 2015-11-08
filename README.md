@@ -3,6 +3,9 @@
 ### About
 Categories Page for PicoCMS. Provide Categories Page and Meta Category.
 
+### TODO
+- Upgrade compability to Pico 1.0
+
 ### Instalation
 1. [Download](https://github.com/julindra/pico_categories_page/archive/master.zip).
 2. Extract and copy folder `pico_categories_page` to your Pico `plugins` folder.
